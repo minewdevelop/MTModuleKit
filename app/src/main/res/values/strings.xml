@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MTModuleDemo</string>
+    <string name="ope_write">Write</string>
+    <string name="connecting">Connecting:</string>
+</resources>
